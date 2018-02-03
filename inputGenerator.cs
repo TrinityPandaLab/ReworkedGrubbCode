@@ -78,7 +78,7 @@ namespace PANDA
 	    }
 	    public static void setStart(int startingNum){ // sets the maximum number of 1's and 0's 
 	        ones = startingNum/2;
-	        zeros = startingNum-/2;
+	        zeros = startingNum/2;
 	    }
 	    
 	    public static void decNum(int index){ // decriments 1's or 0's after they've been printed
